@@ -10,6 +10,8 @@ Your personal voice assistant. Written in Python.
 
 "Hey Ethena" is a 100% open-source, modular voice assistant framework. We aim to do everything that Siri, Cortana, and Echo can do - and more.
 
+| **GitHub:** https://github.com/hey-athena/hey-athena-client
+
 Usage Examples:
 ---------------
 Open it and Ethena first wishes you. Then she loads herself into your PC's memory and then she asks you to how she can helps you.
@@ -41,17 +43,7 @@ How can I make my own Athena?
 
 Installation
 ------------
-For installation notes, please use: ######
+For installation , please let me know at: harsh.sinha.3682@gmail.com
+Note:-
+It is a open-source software so you need not to pay a single rupee for it.
 
-Core Dependencies
------------------
-####
--  Python 3
--  Pocketsphinx (SWIG required in your PATH during installation)
--  SpeechRecognition
--  Pyglet (AVBin required)
--  PyAudio
--  gTTS
--  PyYAML
--  Selenium
-####
